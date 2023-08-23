@@ -27,6 +27,7 @@ Este tutorial é estritamente para fins educativos e destina-se a explorar as ca
 ### Pacotes para instalar 
 
 pip install pandas selenium a_selenium2df PrettyColorPrinter
+
 imporante: tem que instalar seleniumbase assim:
 python.exe -m pip install -U seleniumbase
 
