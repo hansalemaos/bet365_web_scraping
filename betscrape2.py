@@ -1,6 +1,7 @@
 # pip install pandas selenium a_selenium2df PrettyColorPrinter
 # imporant: seleniumbase must be installed like this:
 # python.exe -m pip install -U seleniumbase
+# https://www.youtube.com/watch?v=uVkT61OQTPs
 
 from seleniumbase import Driver
 import pandas as pd
