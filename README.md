@@ -1,5 +1,50 @@
 # Web Scraping no site bet365.com
 
+# Parte 2
+
+[![YT](https://i.ytimg.com/vi/uVkT61OQTPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=uVkT61OQTPs)
+[https://www.youtube.com/watch?v=uVkT61OQTPs]()
+
+Neste vídeo educativo, vamos explorar como utilizar a biblioteca seleniumbase em conjunto com o Python para coletar informações de um site de apostas, o bet365.com. A raspagem de dados é uma técnica amplamente utilizada para extrair informações relevantes de páginas da web de forma automatizada.
+
+🔗 Código Utilizado:
+https://github.com/hansalemaos/bet365_web_scraping/raw/main/betscrape2.py
+
+📌 Neste tutorial, você vai aprender:
+- Como configurar o ambiente de raspagem de dados com o Selenium em Python.
+- Como acessar o site bet365.com e interagir com os elementos da página.
+- Como extrair dados específicos, como horários de jogos e equipes envolvidas.
+- Como manipular e organizar os dados coletados utilizando a biblioteca Pandas.
+- Como criar um DataFrame contendo informações relevantes para análise.
+
+Este tutorial é estritamente para fins educativos e destina-se a explorar as capacidades do Selenium e da programação em Python. Lembre-se de respeitar os termos de uso e políticas de qualquer site ao realizar raspagem de dados.
+
+🔔 Se você é novo na raspagem de dados ou deseja aprender mais sobre programação Python, este vídeo é para você! Deixe suas perguntas e comentários abaixo.
+
+👍 Gostou do tutorial? Deixe o seu like e inscreva-se no canal para mais conteúdo relacionado a programação e tecnologia.
+
+
+### Pacotes para instalar 
+
+pip install pandas selenium a_selenium2df PrettyColorPrinter
+imporante: tem que instalar seleniumbase assim:
+python.exe -m pip install -U seleniumbase
+
+
+
+https://github.com/hansalemaos/PrettyColorPrinter
+
+https://github.com/hansalemaos/a_selenium2df
+
+https://github.com/pandas-dev/pandas
+
+https://github.com/SeleniumHQ/selenium
+
+https://github.com/seleniumbase/SeleniumBase
+
+
+# Parte 1
+
 [![YT](https://i.ytimg.com/vi/Xfw4QaJZ2t0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xfw4QaJZ2t0)
 [https://www.youtube.com/watch?v=Xfw4QaJZ2t0]()
 
