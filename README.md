@@ -1,6 +1,6 @@
 # Web Scraping no site bet365.com
 
-# Parte 2
+# Parte 2 - Usando SeleniumBase
 
 [![YT](https://i.ytimg.com/vi/uVkT61OQTPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=uVkT61OQTPs)
 [https://www.youtube.com/watch?v=uVkT61OQTPs]()
@@ -44,7 +44,7 @@ https://github.com/SeleniumHQ/selenium
 https://github.com/seleniumbase/SeleniumBase
 
 
-# Parte 1
+# Parte 1 - Usando ADB
 
 [![YT](https://i.ytimg.com/vi/Xfw4QaJZ2t0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xfw4QaJZ2t0)
 [https://www.youtube.com/watch?v=Xfw4QaJZ2t0]()
