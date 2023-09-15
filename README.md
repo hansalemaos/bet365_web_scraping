@@ -1,5 +1,19 @@
 # Web Scraping no site bet365.com
 
+
+# Parte 3 - Usando SeleniumBase
+
+[![YT](https://i.ytimg.com/vi/wtzj8yi5mPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wtzj8yi5mPQ)
+[https://www.youtube.com/watch?v=wtzj8yi5mPQ]()
+
+Neste vídeo, vou mostrar como realizar web scraping no site Bet365 para obter quaisquer dados de qualquer categoria. Uso como exemplo jogos de futebol ao vivo, mas o método pode ser aplicada em qualquer outra parte do site. Diferente dos outros vídeos https://www.youtube.com/watch?v=Xfw4Q... https://www.youtube.com/watch?v=uVkT6... , não planejei nada antes de gravar para você entender como começar uma raspagem de dados de zero e lidar com problemas no caminho. Utilizaremos Python, SeleniumBase, a_selenium2df e algumas bibliotecas auxiliares para automatizar a extração de informações.
+
+Exploraremos como configurar o ambiente de scraping e como usar o Selenium para interagir com o site Bet365. Ao longo do vídeo, vou explicar cada parte do código para que você possa entender o processo.
+
+Discutirei também como selecionar elementos específicos na página usando seletores CSS e como extrair os dados desejados. Além disso, abordarei como lidar com elementos pop-up e consentimento de cookies durante o scraping.
+
+Finalmente, demonstrarei como salvar os dados coletados em um DataFrame do Pandas e exportá-los para um arquivo Excel. Você verá como organizar os dados de maneira limpa e eficiente.
+
 # Parte 2 - Usando SeleniumBase
 
 [![YT](https://i.ytimg.com/vi/uVkT61OQTPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=uVkT61OQTPs)
