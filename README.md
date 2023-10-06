@@ -3,8 +3,8 @@
 
 # Parte 3 - Usando SeleniumBase
 
-[![YT](https://i.ytimg.com/vi/QKQa8nOkzVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QKQa8nOkzVk)
-[https://www.youtube.com/watch?v=QKQa8nOkzVk]()
+[![YT](https://i.ytimg.com/vi/wtzj8yi5mPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wtzj8yi5mPQ)
+[https://www.youtube.com/watch?v=wtzj8yi5mPQ]()
 
 Neste vídeo, vou mostrar como realizar web scraping no site Bet365 para obter quaisquer dados de qualquer categoria. Uso como exemplo jogos de futebol ao vivo, mas o método pode ser aplicada em qualquer outra parte do site. Diferente dos outros vídeos https://www.youtube.com/watch?v=Xfw4Q... https://www.youtube.com/watch?v=uVkT6... , não planejei nada antes de gravar para você entender como começar uma raspagem de dados de zero e lidar com problemas no caminho. Utilizaremos Python, SeleniumBase, a_selenium2df e algumas bibliotecas auxiliares para automatizar a extração de informações.
 
