@@ -1,4 +1,4 @@
-## I worked on 4 new different web scraping methods which I am going to explain in Portuguese and English!
+## I worked on 4 new web scraping methods which I am going to explain in Portuguese and English!
 
 
 [![YT](https://i.ytimg.com/vi/Yw8IykeHKLQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yw8IykeHKLQ)
