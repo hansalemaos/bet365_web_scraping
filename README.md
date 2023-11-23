@@ -1,4 +1,15 @@
+## I worked on 4 new different web scraping methods which I am going to explain in Portuguese and English!
+
+
+[![YT](https://i.ytimg.com/vi/Yw8IykeHKLQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yw8IykeHKLQ)
+[https://www.youtube.com/watch?v=Yw8IykeHKLQ]()
+
+
 # Web Scraping no site bet365.com
+
+
+[![YT](https://i.ytimg.com/vi/wtzj8yi5mPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wtzj8yi5mPQ)
+[https://www.youtube.com/watch?v=wtzj8yi5mPQ]()
 
 
 # Parte 3 - Usando SeleniumBase
