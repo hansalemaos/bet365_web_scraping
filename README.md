@@ -1,5 +1,8 @@
 ## I worked on 4 new web scraping methods which I am going to explain in Portuguese and English!
 
+[![YT](https://i.ytimg.com/vi/vGTeLTHiKB8/maxresdefault.jpg)](https://www.youtube.com/watch?v=vGTeLTHiKB8)
+[https://www.youtube.com/watch?v=vGTeLTHiKB8]()
+
 [![YT](https://i.ytimg.com/vi/oNPTG6YPEeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=oNPTG6YPEeM)
 [https://www.youtube.com/watch?v=oNPTG6YPEeM]()
 
